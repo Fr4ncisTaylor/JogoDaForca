@@ -5,4 +5,4 @@
  * Para iniciar basta executar o arquivo ```iniciar.bat```  ou, no terminal digite  ```python main.py``` 
 
 <br/>
-<img src="captura.png"></img>
+<img src="cap_tura.png"></img>
